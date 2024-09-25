@@ -1,0 +1,16 @@
+body {
+    background-color: pink;
+    color:black ;
+    front-family: "playfair display", system-ui;
+    display:flex ;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+
+}
+button {
+    background-color: rgb(230, 126, 22);
+    color:black;
+    font-family:'playpen Sans', cursive ;
+}
